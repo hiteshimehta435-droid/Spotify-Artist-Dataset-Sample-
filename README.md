@@ -17,7 +17,6 @@ This sample dataset contains information about popular Spotify artists. It can b
 
 ## 📌 Dataset Columns
 
-* **Artist ID** – Unique identifier for each artist.
 * **Artist Name** – Name of the artist.
 * **Genre** – Primary music genre.
 * **Monthly Listeners** – Spotify monthly listeners (in millions).
